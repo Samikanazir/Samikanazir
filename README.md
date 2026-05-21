@@ -17,7 +17,7 @@
 ---
 
 # 👩‍🔬 About Me
-<img align="right" width="350" src="https://illustrations.popsy.co/green/working-from-home.svg"/>
+<img align="right" width="320" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 I am a passionate **PhD Research Scholar in Sericulture** with a specialized research focus in **Nematology** and **Mulberry Crop Health**.
 
 My research explores the interaction between **plant-parasitic nematodes** and mulberry-based sericulture systems through detailed field and laboratory investigations.
