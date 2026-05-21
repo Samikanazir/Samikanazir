@@ -17,8 +17,7 @@
 ---
 
 # 👩‍🔬 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/3o7TKsQ8UQ4Q5iM6M0/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif"/>
 
 I am a passionate **PhD Research Scholar in Sericulture** with a specialized research focus in **Nematology** and **Mulberry Crop Health**.
 
