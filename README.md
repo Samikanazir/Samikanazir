@@ -4,7 +4,7 @@
 
 # 🌱 Welcome to My Research Profile
 
-### 🔬 PhD Research Scholar | Sericulture | Nematology | Agricultural Research
+### 🔬 PhD Research Scholar | Sericulturist | Nematologist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=16A34A&center=true&vCenter=true&width=850&lines=Researching+Plant-Parasitic+Nematodes;Advancing+Sustainable+Sericulture;Exploring+Mulberry+Crop+Health;Scientific+Research+%7C+Field+Studies+%7C+Data+Analysis"/>
 
@@ -18,7 +18,7 @@
 
 # 👩‍🔬 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFsNDRrMDF1MWZ6c3F3eXc4MnVxOHN2N2h1N3BkMm1qYzI3M2p5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGDAx6u3hthMhgI/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/3o7TKsQ8UQ4Q5iM6M0/giphy.gif"/>
 
 I am a passionate **PhD Research Scholar in Sericulture** with a specialized research focus in **Nematology** and **Mulberry Crop Health**.
 
